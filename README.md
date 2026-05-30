@@ -56,6 +56,6 @@ Since Android restricts direct battery polling from external network devices, we
    * URL: `http://<YOUR_ESP32_IP>/battery?level=[battery]` then OK.
 5. Save the Macro. Test actions. Your phone will now update the physical bar graph every time the battery percentage changes!
 <img width="1600" height="1164" alt="30% Display" src="https://github.com/user-attachments/assets/baf4ef40-4e64-4203-9d91-15eb8bcb8222" />
-<img width="1080" height="316" alt="Mobile SS" src="https://github.com/user-attachments/assets/ce53c566-7715-49b9-8fbe-38476925d00e" />![Uploading CCT.jpeg…]()
+<img width="1080" height="316" alt="Mobile SS" src="https://github.com/user-attachments/assets/ce53c566-7715-49b9-8fbe-38476925d00e" />
 
 <img width="910" height="381" alt="Serial Monitor 2" src="https://github.com/user-attachments/assets/479424b8-1c6a-408f-8266-400cd2e05a96" />
